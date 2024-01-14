@@ -1,80 +1,85 @@
-# BSF众筹计划
-
-BSF众筹计划是由 [BSF软件基金会](https://byteee.fund) 发起的一项软件项目计划，皆在为了激活和重新赋予软件项目生命力，推动软件项目的可持续发展。
+[中文](README_ZH.md)
 
 
 
-# 计划流程
+# BSF Crowdfunding Plan
 
-BSF众筹计划 按照以下流程进行推进，所有阶段都会公示：
-
-
-
-发起项目->项目投票->项目众筹->招募人员->项目开发->项目上线->项目维护
+The BSF Crowdfunding Plan is an initiative launched by the [BSF Software Foundation](https://byteee.fund/) aimed at reviving and injecting new life into software projects, thereby promoting their sustainable development.
 
 
 
-# 哪些项目适用
+# Plan Process
 
-BSF众筹计划主要是目的的是为了重新旧的或者优质的项目，以及探索和创新新的项目
+The BSF Crowdfunding Plan follows the process below, with all stages being publicly disclosed:
 
-所以我们欢迎大家提交以下项目：
-
-* 停止更新或长时间不维护的项目；
-* 市面上极少存在或不存在的项目；
-* 新的平台或者需要赋能的生态；
+Initiate Project -> Project Voting -> Project Crowdfunding -> Personnel Recruitment -> Project Development -> Project Launch -> Project Maintenance
 
 
 
-# 哪些项目不适用
+# Suitable Projects
 
-BSF众筹计划不重复造轮子也不完全浪费开发人员的精力，
-因此这个计划可能不适用以下项目：
+The main goal of the BSF Crowdfunding Plan is to rejuvenate old or quality projects, as well as to explore and innovate new projects. We welcome submissions of the following projects:
 
-* 已存在类似且保持更新的项目；
+- Projects that have ceased updates or have been unmaintained for a long time;
 
-* 有完全替代解决方案的项目；
+- Projects that are scarcely or not at all present in the market;
 
-* 太过陈旧且完全无法兼容现有环境的项目；
+- New platforms or ecosystems in need of empowerment;
 
-* 不符合法律法规的项目；
+- Projects involved in software copyright agreement disputes;
 
   
 
+# Unsuitable Projects
 
-# 如何提交项目
+The BSF Crowdfunding Plan avoids reinventing the wheel and unnecessarily wasting developers' efforts. Therefore, this plan may not be suitable for the following projects:
 
-*注意：提交前，请务必进行搜索确认是否有其他人提交过，避免重复提交。*
+- Projects similar to existing ones that are still being updated;
+- Projects for which complete alternative solutions exist;
+- Projects that are too outdated to be compatible with current environments;
+- Projects that do not comply with legal and regulatory requirements;
 
-*如果搜索到类似项目，请直接使用表情功能投票即可。*
+
+
+# How to Vote for Projects
+
+*Note: Before submitting, please ensure to search and confirm whether someone else has already submitted the same project to avoid duplication.*
+
+*If a similar project is found, simply click to vote.*
+
+![vote](vote.png)
 
 
 
+## How to Initiate a Project
 
-点击 [discussions](https://github.com/byteee-fund/bsf-crowdfunding-plan/discussions)页面，进入 `vote`分类，然后提交新的discussions。
+Click on the [discussions](https://github.com/byteee-fund/bsf-crowdfunding-plan/discussions) page, enter the `vote` category, and then submit a new discussion.
 
-提交模版:
+Submission Template:
 
-> **项目名称：**
+> **Project Name:**
 >
-> 例如： cordova-plugin-wechat
+> Example: cordova-plugin-wechat
 >
-> **仓库地址：**
+> **Repository URL:**
 >
-> 例如： https://github.com/xu-li/cordova-plugin-wechat
+> Example: https://github.com/xu-li/cordova-plugin-wechat
 >
-> **申请理由：**
+> **Reason for Application:**
 >
-> 1、原项目已停止更新（或原项目已超过1年以上不再更新）；
+> 1. The original project has ceased updates (or has not been updated for over a year);
+> 2. The software's code can no longer be used on new platforms (or the software's code has serious functional issues);
 >
-> 2、软件的代码已经无法在新平台上使用；（或软件的代码存在严重的功能问题）；
+> **Willingness to Crowdfund:**
 >
-> **是否愿意众筹：**
->
-> 是
+> Yes
+
+![new](new.png)
+
+After submitting, it is recommended to stay subscribed for updates. If the project enters the crowdfunding stage or recruitment for maintainers begins, updates will be posted in the same discussion thread.
 
 
 
+# Join Maintainer
 
-提交完成，建议保持订阅状态，后续如果该项目进入众筹阶段或者招募维护者都会在此条discussions里进行更新。
-
+If you want to be a maintainer for some projects, please leave your message on github or send mail to bsf@byteee.com
